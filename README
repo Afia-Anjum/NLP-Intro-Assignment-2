@@ -1,5 +1,4 @@
 INTRO TO NLP
-Afia Anjum (ccid: afia)
 
 Place the assignment-2.py file in the directory which contains the train, dev and test directories. Each of these directories' name must end with the suffixes "_train", "_dev" and "_test", respectively.
 
