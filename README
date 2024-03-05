@@ -1,5 +1,5 @@
 INTRO TO NLP
-Shehroze Khan (ccid: shehroze) and Afia Anjum (ccid: afia)
+Afia Anjum (ccid: afia)
 
 Place the assignment-2.py file in the directory which contains the train, dev and test directories. Each of these directories' name must end with the suffixes "_train", "_dev" and "_test", respectively.
 
@@ -9,10 +9,10 @@ The program will then prompt the user for an input specifying whether files in t
 
 For example, a successful running of the program with laplace smoothing for a directory containing test files by the name of '*_test' (* can be anything else) will yield the following on terminal:
 
-	>Shehrozes-MacBook-Pro:A2 Shehroze$ python assignment-2.py --unsmoothed
+	>Afia-MacBook-Pro:A2 Afia$ python assignment-2.py --unsmoothed
 	Are you testing for test or dev files? Enter t for test, d for dev.
 	t
 	Output generated successfully! Please check your current working directory for the output .txt file.
-	>Shehrozes-MacBook-Pro:A2 Shehroze$ 
+	>Afia-MacBook-Pro:A2 Afia$ 
 
 As indicated, the output file will be generated in the same directory as the assignment-2.py file.
